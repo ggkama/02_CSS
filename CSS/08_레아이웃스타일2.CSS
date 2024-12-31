@@ -92,7 +92,7 @@
     text-align: center;
 }
 
-.test3. > span{
+.test3> span{
     margin : auto; /* inline 요소는 적용 X  -> text-align 사용*/
 }
 
